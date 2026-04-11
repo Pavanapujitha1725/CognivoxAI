@@ -77,4 +77,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 2. Paste this text into it.
 3. Make sure to replace `https://github.com/yourusername/cognivox-ai.git` with your actual GitHub repository URL if you have one!
 Here is the public link you can use to access and share your application with anyone:
-https://ais-pre-eya25egztazb5atmnsemlt-308652562173.asia-southeast1.run.app   `npm run dev`
+https://cognivox-ai-chi.vercel.app/
+
